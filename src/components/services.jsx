@@ -3,67 +3,30 @@
 
 export const Services = (props) => {
   return (
-    <div>
-
-    
-    <div id='services' className=' '>
-      <div className='container '>
-        <div className='section-title text-center '>
-          <h2>NEW PRODUCTS</h2>
-          
+    <div id='services' className='text-center'>
+      <div className='container'>
+        <div className='section-title'>
+          <h2>alpha SERVICIOS</h2>
+          <img src="img/alpha/rayam.png" className="rayam" alt="" />
+          <p>
+          Nuestro objetivo es proporcionar servicios profesionales para dar soluciones tecnológicas y de gestión, adaptadas a cada cliente, usando herramientas y metodologías agiles.
+          </p>
         </div>
         <div className='row'>
-        <div className='portfolio-items'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} >
+                <div key={`${d.name}-${i}`} className='col-md-3'>
                   {' '}
-                  
-                 
-
-                   
-                    <h3 className=' text-danger'>{d.name}</h3>
-                    <p>{d.text}</p>
-
+                  <img src={d.img} alt='...' className='img-service' />
+                  <div className='service-desc'>
+                    <p>{d.name}</p>
+                    <h3>{d.text}</h3>
                   </div>
-                
+                </div>
               ))
             : 'loading'}
         </div>
-        </div>
       </div>
     </div>
-    <div id='services' className=''>
-      <div className='container'>
-        <div className='section-title text-center'>
-          <h2>LATEST NEWS</h2>
-          
-        </div>
-        <div className='row'>
-          
-            {props.data
-              ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`}>
-                   {' '}
-                   
-
-                   
-                  <h3 className=' text-danger'>{d.name}</h3>
-                  <p>{d.text}</p>
-
-                  </div>
-                
-              ))
-              : 'Loading...'}
-          </div>
-        </div>
-      </div>
-
-    </div>
-    
-   
-
-       
-    
   )
 }

@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "¡Probado por el tiempo!",
-    "paragraph": "Los aceites de motor FAVORIT están diseñados para garantizar el funcionamiento eficiente y la protección de los turismos y vehículos comerciales en condiciones de carga elevada. Nuestros productos han superado con éxito las pruebas de laboratorio y las pruebas de producción."
+    "title": "El Conducto a la transformación digital.",
+    "paragraph": "La transformación digital es inminente y por consiguiente la manera en que trabajamos, tareas que realizamos dia a dia se verán afectadas por las nuevas tecnologías."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -90,24 +90,44 @@
   ],
   "Services": [
     {
-      
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/alpha/ingenieria de software.png",
+      "name": "INGENIERIA",
+      "text": "DE SOFTWARE"
     },
     {
-     
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/alpha/ASESORIA_ICON.png",
+      "name": "ASESORIA Y CONSULTORIA",
+      "text": "TECNOLÓGICA"
     },
     {
-     
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/alpha/INFRA.png",
+      "name": "INFRAESTRUCTURA",
+      "text": "Y REDES"
     },
     {
-     
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/alpha/diseño.png",
+      "name": "DISEÑO WEB",
+      "text": "UI / UX"
+    },
+    {
+      "img": "img/alpha/DBA.png",
+      "name": "ADMINISTRACION",
+      "text": "DE BASES DE DATOS"
+    },
+    {
+      "img": "img/alpha/seguridad.png",
+      "name": "SEGURIDAD",
+      "text": "INFORMATICA"
+    },
+    {
+      "img": "img/alpha/sistemas de seguridad.png",
+      "name": "SEGURIDAD",
+      "text": "INFORMATICA"
+    },
+    {
+      "img": "img/alpha/plataformaIT.png",
+      "name": "SOPORTE TECNICO",
+      "text": "Y MONITOREO"
     }
   ],
   "Testimonials": [
@@ -174,9 +194,9 @@
     {
      
       "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "text": "En nuestra ambición por innovar nos encontramos en constante desarrollo de sistemas y aplicaciones capaces de minimizar errores, aumentar productividad, ahorrar tiempo y aumentar los beneficios. CORE, el núcleo encargado del control de movimientos dentro del negocio, ingresos, gastos, contabilidad y mas.",
       "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "mensaje": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam. Lorem ipsum dolor sit amet"
+      "mensaje": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque  "
      
  
     } 
